@@ -1,0 +1,6 @@
+
+# 한번 설정한 이후
+git add .  
+git status (선택)
+git commit -m "first commit"
+git push origin master
